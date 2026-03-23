@@ -32,7 +32,7 @@
 
 ### 1. Sử dụng file thực thi (.exe)
 * Truy cập mục **Releases** trên thanh Menu bên phải.
-* Tải file `MiniSQLServer.exe` và chạy trực tiếp trên Windows (Không cần cài đặt môi trường).
+* Tải file `BTree_SQLserver.exe` và chạy trực tiếp trên Windows (Không cần cài đặt môi trường).
 
 ### 2. Chạy từ mã nguồn Python
 Yêu cầu Python 3.x trở lên:
@@ -40,4 +40,4 @@ Yêu cầu Python 3.x trở lên:
 # Di chuyển vào thư mục chứa code
 cd src
 # Khởi chạy ứng dụng
-python mini_sql_server.py
+python Btree_SQLserver.py
